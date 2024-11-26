@@ -1,0 +1,9 @@
+(1/1) - tree has an empty root node after creation
+(1/1) - insertions into an empty tree create the expected tree
+(3/3) - the rotate method successfully performed a simple left rotation
+(3/3) - the rotate method successfully performed a right rotation at the root
+(3/3) - the rotate method successfully performed a right rotation
+(3/3) - the rotate method successfully performed a left rotation
+(3/3) - tests implemented
+(2.5/3) - form submitted by the Friday (Sep 15) deadline
+TOTAL:  19.5 / 20
